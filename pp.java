@@ -3,7 +3,4 @@ public class pp {
         /// code
     }
 
-    public static void m2(String[] args) {
-        /// code
-    }
 }
